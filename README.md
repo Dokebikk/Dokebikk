@@ -8,7 +8,7 @@
 
 ###
 
-<p align="left">Eu sou o Marcos, mas pode me chamar de Dokebi, e um dia eu vou ser programador</p>
+<p align="left">Eu sou o Marcos, mas pode me chamar de Dokebi, e um dia eu vou ser programador, e depois de muito tempo de preguiça eu fiz o README, ficou teoricamente simples faz já da pro gasto</p>
 
 ###
 
