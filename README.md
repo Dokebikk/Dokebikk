@@ -20,18 +20,6 @@
 
 ###
 
-div align="center">
-
-<img src="https://github-readme -stats.vercel.app/api/top-langs ?username=Dokebikk&locale=pt-br&hide _title=false&layout=compact&card_width =320&langs_count=12&theme=dark&hide _border=false&order=2" height="150" alt ="languages graph" />
-
-<img src="https://github-readme -stats.vercel.app/api?username=Dokebikk &hide_title=false&hide_rank=false&show _icons=true&include_all_commits=true& count_private=true&disable_animations =false&theme=dark&locale=pt-br&hide _border=false&order=1" height="154" alt ="stats graph" />
-
-<img src="https://streak-stats .demolab.com?user=Dokebikk&locale=pt -br&mode=daily&theme=dark&hide_border= false&border_radius=5&order=3" height=" 150" alt="streak graph" />
-
-</div>
-
-###
-
 <div align="center">
   <img height="200" src="https://media1.tenor.com/m/DbpOGc7s0fsAAAAd/shin-godzilla-godzilla.gif"  />
 </div>
