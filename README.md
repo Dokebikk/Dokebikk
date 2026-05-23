@@ -16,7 +16,7 @@
 
 ###
 
-<p align="left">📚estou cursando o curso técnico de desenvolvimento de sistemas no SENAI<br>🎯 Metas: Provavelmente seguir na área, eu sempre tive um interesse por programação.<br>🎲 Fun fact: nos tempos livres eu tento fazer alguma coisa no FL Studio, ou jogo algum jogo. mais uma informação desnecessária, eu tenho 972 dias de ofensiva no Duolingo (eu não me orgulho disso)</p>
+<p align="left">📚estou cursando o curso técnico de desenvolvimento de sistemas no SENAI<br>🎯 Metas: Provavelmente seguir na área, eu sempre tive um interesse por programação.<br>🎲 Fun fact: nos tempos livres eu tento fazer alguma coisa no FL Studio, ou jogo algum jogo. mais uma informação desnecessária, eu tenho 974 dias de ofensiva no Duolingo (eu não me orgulho disso)</p>
 
 ###
 
